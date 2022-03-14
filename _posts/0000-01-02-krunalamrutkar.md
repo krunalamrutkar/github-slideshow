@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide"
 ---
-your text
+My name is krunal
 Use the left arrow to go back!
